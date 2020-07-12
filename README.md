@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I am Shubham
+
+
+
+
+🔭 I am currently working on Ruby on Rails and React (3R's). 🌱 Currently learning how to write articles for everyone. 
+
+<!-- 
+⚡ Fun Fact: 
+ -->
+
+Full Stack Developer @ [eLitmus, Bangalore](https://github.com/elitmus/) since 2018-Present
+
+Reach me on: 
+[![Twitter](https://img.shields.io/twitter/follow/shubham9411?style=social)](https://twitter.com/shubham9411/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073b1?style=social&logo=Linkedin&link=https://www.linkedin.com/in/shubham9411/)](https://www.linkedin.com/in/shubham9411/)
+[![GitHub Shubham](https://img.shields.io/github/followers/shubham9411?label=follow&style=social)](https://github.com/shubham9411)
+
 
 <!--
 **shubham9411/shubham9411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
