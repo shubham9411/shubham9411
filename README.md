@@ -3,13 +3,20 @@
 
 
 
-🔭 I am currently working on Ruby on Rails and React (3R's). 🌱 Currently learning how to write articles for everyone. 
+🔭 I am currently working on Web mostly on React. 🌱 Currently learning how to write articles for everyone. 
 
 <!-- 
 ⚡ Fun Fact: 
  -->
+Current:
 
-Full Stack Developer @ [eLitmus, Bangalore](https://github.com/elitmus/) since 2018-Present
+Software Engineer @ [mFine, Bangalore](https://www.mfine.co/) since 2021-
+
+Previously:
+
+Full Stack Developer @ [eLitmus, Bangalore](https://github.com/elitmus/) since 2018-2020
+
+Blog: https://shubhampandey.in/
 
 Reach me on: 
 [![Twitter](https://img.shields.io/twitter/follow/shubham9411?style=social)](https://twitter.com/shubham9411/)
