@@ -3,16 +3,18 @@
 
 
 
-🔭 I am currently working on Web mostly on React. 🌱 Currently learning how to write articles for everyone. 
+🔭 I am currently working on Web, mostly on React. 🌱 Currently learning how to write articles for everyone. 
 
 <!-- 
 ⚡ Fun Fact: 
  -->
 Current:
 
-Software Engineer @ [mFine, Bangalore](https://www.mfine.co/) since 2021-
+Software Engineer @ [Microsoft, Hyderabad](https://www.microsoft.com/) since 2022-
 
 Previously:
+
+Software Engineer @ [MFine, Bangalore](https://www.mfine.co) since 2021-2022
 
 Full Stack Developer @ [eLitmus, Bangalore](https://github.com/elitmus/) since 2018-2020
 
